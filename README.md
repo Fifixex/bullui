@@ -7,7 +7,7 @@
 <a href="/">Docs</a> ·
 <a href="/">Components</a>
 
-🏛 An aesthetic UI library inspired by soft vintage vibes. <br> Bringing a nostalgic yet modern touch to your projects with minimal, sleek, and functional design.
+🏛 **Bullui** (`/ˈbʊl.u.aɪ/`) is an aesthetic UI library inspired by soft vintage vibes. <br> Bringing a nostalgic yet modern touch to your projects with minimal, sleek, and functional design.
 
 ## Made with ❤️
 
